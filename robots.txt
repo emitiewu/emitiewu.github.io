@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emitiewu.github.io/EWR/sitemap_index.txt
+Sitemap: https://emitiewu.github.io/Sgr/sitemap_index.txt
+Sitemap: https://emitiewu.github.io/VAl/sitemap_index.txt
+Sitemap: https://emitiewu.github.io/vbd/sitemap_index.txt
